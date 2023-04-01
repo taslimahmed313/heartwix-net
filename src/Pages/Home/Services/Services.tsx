@@ -4,7 +4,7 @@ const Services = () => {
       <h1>Here Stay Services Section</h1>
 
       <h1>
-       this is services
+        
       </h1>
     </div>
   );
