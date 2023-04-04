@@ -13,7 +13,7 @@ const About = () => {
         <div className="">
           <img
             src="http://amberit.com.bd/img/about.png"
-            className="max-w-lg max-w-screen-lg rounded-lg shadow-1xl"
+            className="max-w-lg max-w-screen-lg rounded-lg shadow-1xl "
             alt=""
           />
         </div>
